@@ -1,0 +1,186 @@
+[ 
+    {
+        "id" : "1", 
+        "name" : "The Dune Eco Hotels",
+        "location" : "Pondicherry",
+        "Paragraph": "Entire rental unit in Pondicherry <br><b>'The Dune Eco' 2BHK in Heritage town </b><br> 4 guests, · 2 bedrooms,<br> · 2 beds, · 2 bathrooms ",
+        "img": "https://pix8.agoda.net/hotelImages/6125420/-1/eea1f4af2bca050465ab2e0fb42359ff.jpg?s=450x450"
+    },
+    {
+        "id" : "2", 
+        "name" : "Casa Meena - Sea view villa ",
+        "location" : "Pondicherry",
+        "Paragraph": "Entire villa in Pondicherry<br><b>'Casa Meena' 2BHK sea view villa</b> <br>6 guests, · 2 bedrooms, <br>· 4 beds, · 2 bathrooms",
+        "img": "https://a0.muscache.com/im/pictures/0075ef8a-413b-409a-9456-dc11530f756e.jpg?im_w=1200"
+    },
+    {
+        "id" : "3", 
+        "name" : "La maison bleue Eco-conscious lodging ",
+        "location" : "Pondicherry",
+        "Paragraph":"Private room in bungalow<br><b>'Casa Ahau'1 BHK Bungalow</b> <br>3 guests, · 1 bedroom, <br> · 2 beds, · 1 shared bathroom",
+        "img": "https://a0.muscache.com/im/pictures/c92a8ed3-1390-4d17-a66b-a4e88dca93be.jpg?im_w=1200"
+    },
+    {
+        "id" : "4", 
+        "name" : "Calanjali (Ensuite)",
+        "location" : "Pondicherry",
+        "Paragraph": "Private room in residential home<br><b>'Calanjali'1 BHK home</b><br> 3 guests, · 1 bedroom, <br>· 1 bed, · 1 private bathroom",
+        "img": "https://a0.muscache.com/im/pictures/23a8f65e-7d36-4c63-bbb1-3a9f4700fac8.jpg?im_w=1200"
+    
+    } ,
+    {
+        "id" : "5", 
+        "name" : "Joseph Apartment",
+        "location" : "Pondicherry",
+        "Paragraph": "Entire rental unit  in residential area<br><b>'Joseph Apartment'2 BHK home</b><br> 3 guests, · 2 bedroom, <br>· 3 bed, · 2 private bathroom",
+        "img": "https://a0.muscache.com/im/pictures/0671ce8e-f985-4bba-b061-5f16783d6e79.jpg?im_w=1200"
+    
+    },
+    {
+        "id" : "6", 
+        "name" : "Duplex Sea view Studio Room",
+        "location" : "Pondicherry",
+        "Paragraph": "Private room in residential home<br><b>'Duplex Sea view'1 BHK home</b><br> 4 guests, · 1 bedroom, <br>· 1 bed, · 1 private bathroom",
+        "img": "https://a0.muscache.com/im/pictures/446043c2-e001-48fc-a650-59e011cd93fa.jpg?im_w=1200"
+    
+    },
+    {
+        "id" : "7", 
+        "name" : "Stumpfields",
+        "location" : "Ooty",
+        "Paragraph": "Entire residential home <br><b>'Stumpfields'5 BHK home</b><br>8 guests, · 5 bedrooms, <br>· 6 beds, · 3 bathrooms",
+        "img": "https://a0.muscache.com/im/pictures/56f73f1f-4674-4a18-ad43-dd3d70263dd3.jpg?im_w=1200"
+    },
+    {
+        "id" : "8", 
+        "name" : "Gravityville-Heritage",
+        "location" : "Ooty",
+        "Paragraph": "Entire bungalow  <br><b>'Gravityville-Heritage'5 BHK home</b><br>9 guests, · 4 bedrooms, <br>· 4 beds, · 4 bathrooms",
+        "img": "https://a0.muscache.com/im/pictures/29cc0a21-4b94-41b5-a2e2-d4229307efb8.jpg?im_w=1200"
+    },
+    {
+        "id" : "9", 
+        "name" : "Spacious B&B❤️ Balcony ",
+        "location" : "Ooty",
+        "Paragraph": "Private rooms<br><b>'Spacious B&B❤️ Balcony '2 BHK home</b><br>4 guests, · 2 bedrooms, <br>· 3 beds, · 2 bathrooms",
+        "img": "https://a0.muscache.com/im/pictures/9718e0df-46c1-4ee8-b87a-762118b2d19f.jpg?im_w=1200"
+    },
+    {
+        "id" : "10", 
+        "name" : "Windtreey 4BR",
+        "location" : "Ooty",
+        "Paragraph": "Entire villa for stay<br><b>'Windtreey 4BR'5 BHK home</b><br>12 guests, · 5 bedrooms, <br>· 6 beds, · 4 bathrooms",
+        "img": "https://a0.muscache.com/im/pictures/miso/Hosting-50647630/original/8e2bb1e3-fb2c-4e8b-a9ce-213ec746a7ac.jpeg?im_w=1200"   
+     },
+    {
+        "id" : "11", 
+        "name" : "Villa Hugel",
+        "location" : "Ooty",
+        "Paragraph": "Private room in villa<br><b>'Villa Hugel'3 BHK home</b><br>9 guests, · 3 bedrooms, <br>· 3 beds, · 3 bathrooms",
+        "img": "https://a0.muscache.com/im/pictures/d505e1c0-3379-46f0-b3a4-517bc3f7d9f9.jpg?im_w=1200"
+    },
+    {
+        "id" : "12", 
+        "name" : "Heaven Hill View",
+        "location" : "Ooty",
+        "Paragraph": "Entire villa for stay<br><b>'Heaven Hill View'2 BHK home</b><br>6 guests, · 2 bedrooms, <br>· 3 beds, · 3 bathrooms",
+        "img": "https://a0.muscache.com/im/pictures/f3c62be0-3695-4e53-b0c4-dfb633cf6f73.jpg?im_w=1200"
+    },
+
+    {
+        "id" : "13", 
+        "name" : "Spacious B&B❤️ Balcony ",
+        "location" : "Manali",
+        "Paragraph": "Private rooms<br><b>'Spacious B&B❤️ Balcony '2 BHK home</b><br>4 guests, · 2 bedrooms, <br>· 3 beds, · 2 bathrooms",
+        "img": "https://a0.muscache.com/im/pictures/9718e0df-46c1-4ee8-b87a-762118b2d19f.jpg?im_w=1200"
+    },
+
+    {
+        "id" : "14", 
+        "name" : "The Dune Eco Hotels",
+        "location" : "Manali",
+        "Paragraph": "Entire rental unit in Pondicherry <br><b>'The Dune Eco' 2BHK in Heritage town </b><br> 4 guests, · 2 bedrooms,<br> · 2 beds, · 2 bathrooms ",
+        "img": "https://pix8.agoda.net/hotelImages/6125420/-1/eea1f4af2bca050465ab2e0fb42359ff.jpg?s=450x450"
+    },
+
+    {
+        "id" : "15", 
+        "name" : "Gravityville-Heritage",
+        "location" : "Manali",
+        "Paragraph": "Entire bungalow  <br><b>'Gravityville-Heritage'5 BHK home</b><br>9 guests, · 4 bedrooms, <br>· 4 beds, · 4 bathrooms",
+        "img": "https://a0.muscache.com/im/pictures/29cc0a21-4b94-41b5-a2e2-d4229307efb8.jpg?im_w=1200"
+    },
+
+    {
+        "id" : "16", 
+        "name" : "Windtreey 4BR",
+        "location" : "Manali",
+        "Paragraph": "Entire villa for stay<br><b>'Windtreey 4BR'5 BHK home</b><br>12 guests, · 5 bedrooms, <br>· 6 beds, · 4 bathrooms",
+        "img": "https://a0.muscache.com/im/pictures/miso/Hosting-50647630/original/8e2bb1e3-fb2c-4e8b-a9ce-213ec746a7ac.jpeg?im_w=1200"   
+     },
+    {
+        "id" : "17", 
+        "name" : "Villa Hugel",
+        "location" : "Manali",
+        "Paragraph": "Private room in villa<br><b>'Villa Hugel'3 BHK home</b><br>9 guests, · 3 bedrooms, <br>· 3 beds, · 3 bathrooms",
+        "img": "https://a0.muscache.com/im/pictures/d505e1c0-3379-46f0-b3a4-517bc3f7d9f9.jpg?im_w=1200"
+    },
+    {
+        "id" : "18", 
+        "name" : "Heaven Hill View",
+        "location" : "Manali",
+        "Paragraph": "Entire villa for stay<br><b>'Heaven Hill View'2 BHK home</b><br>6 guests, · 2 bedrooms, <br>· 3 beds, · 3 bathrooms",
+        "img": "https://a0.muscache.com/im/pictures/f3c62be0-3695-4e53-b0c4-dfb633cf6f73.jpg?im_w=1200"
+    },
+
+
+    {
+        "id" : "19", 
+        "name" : "Duplex Sea view Studio Room",
+        "location" : "Kerala",
+        "Paragraph": "Private room in residential home<br><b>'Duplex Sea view'1 BHK home</b><br> 4 guests, · 1 bedroom, <br>· 1 bed, · 1 private bathroom",
+        "img": "https://a0.muscache.com/im/pictures/446043c2-e001-48fc-a650-59e011cd93fa.jpg?im_w=1200"
+    
+    },
+    {
+        "id" : "20", 
+        "name" : "Stumpfields",
+        "location" : "Kerala",
+        "Paragraph": "Entire residential home <br><b>'Stumpfields'5 BHK home</b><br>8 guests, · 5 bedrooms, <br>· 6 beds, · 3 bathrooms",
+        "img": "https://a0.muscache.com/im/pictures/56f73f1f-4674-4a18-ad43-dd3d70263dd3.jpg?im_w=1200"
+    },
+
+    {
+        "id" : "21", 
+        "name" : "The Dune Eco Hotels",
+        "location" : "Kerala",
+        "Paragraph": "Entire rental unit in Pondicherry <br><b>'The Dune Eco' 2BHK in Heritage town </b><br> 4 guests, · 2 bedrooms,<br> · 2 beds, · 2 bathrooms ",
+        "img": "https://pix8.agoda.net/hotelImages/6125420/-1/eea1f4af2bca050465ab2e0fb42359ff.jpg?s=450x450"
+    },
+    {
+        "id" : "22", 
+        "name" : "Casa Meena - Sea view villa ",
+        "location" : "Kerala",
+        "Paragraph": "Entire villa in Pondicherry<br><b>'Casa Meena' 2BHK sea view villa</b> <br>6 guests, · 2 bedrooms, <br>· 4 beds, · 2 bathrooms",
+        "img": "https://a0.muscache.com/im/pictures/0075ef8a-413b-409a-9456-dc11530f756e.jpg?im_w=1200"
+    },
+    {
+        "id" : "23", 
+        "name" : "La maison bleue Eco-conscious lodging ",
+        "location" : "Kerala",
+        "Paragraph":"Private room in bungalow<br><b>'Casa Ahau'1 BHK Bungalow</b> <br>3 guests, · 1 bedroom, <br> · 2 beds, · 1 shared bathroom",
+        "img": "https://a0.muscache.com/im/pictures/c92a8ed3-1390-4d17-a66b-a4e88dca93be.jpg?im_w=1200"
+    },
+
+    {
+        "id" : "24", 
+        "name" : "Windtreey 4BR",
+        "location" : "Kerala",
+        "Paragraph": "Entire villa for stay<br><b>'Windtreey 4BR'5 BHK home</b><br>12 guests, · 5 bedrooms, <br>· 6 beds, · 4 bathrooms",
+        "img": "https://a0.muscache.com/im/pictures/miso/Hosting-50647630/original/8e2bb1e3-fb2c-4e8b-a9ce-213ec746a7ac.jpeg?im_w=1200"   
+     }
+
+]
+
+
+ 

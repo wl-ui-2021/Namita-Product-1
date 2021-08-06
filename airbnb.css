@@ -1,0 +1,249 @@
+.head{
+    background-image: linear-gradient(rgba(0,0,0,0.37),rgba(0,0,0,0.37)), url("https://www.fodors.com/wp-content/uploads/2019/11/09_GlassHouseHotels__Skylodge_9.-IMG_4548.jpg");
+    height: 700px;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+/* Navbar css starts */
+.navbar-expand-lg .navbar-nav {
+    flex-direction: row;
+    margin-left: 122px;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: .5rem;
+    padding-left: 4.5rem;
+}
+.nav-item a{
+    color: cyan;
+    font-size:27px;
+    font-family: "Trebuchet MS";
+    font-weight: bold;
+}
+
+/* navbar css ends */
+ .heading {
+     margin-top: -540px;
+ }
+/* search css starts */
+.d-flex{
+    margin-left: 550px;
+}
+
+/* heading starts */
+.heading-container{
+    text-align: center;
+    color: blanchedalmond;
+}
+
+.explore{
+    margin-left: 50px;
+}
+
+.far {
+    position: relative;
+    top: 5px;
+}
+
+.search-container {
+    
+    margin-left: 25px; 
+}
+
+/* main body starts */
+
+.main-container {
+    margin-top: 350px;
+}
+
+.i1,.p1 ,.i2,.p2, .i3,.p3,.i4,.p4,.i5,.p5
+{
+    display: inline-block;
+}
+
+
+
+.p1,.p2,.p3,.p4,.p5{
+    font-weight: bold;
+    font-size: 17px;
+}
+
+
+
+.i1 img , .i2 img,.i3 img, .i4 img, .i5 img
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
+
+
+ .i1{
+    padding-left: 1px;
+    margin-left: 77px;
+}
+.i2{
+    padding-left: 1px;
+    margin-left: 76px;
+}
+.i3{
+    padding-left: 1px;
+    margin-left: 85px;
+}
+.i4{
+    padding-left: 1px;
+    margin-left: 84px;
+}
+.i5{
+    padding-left: 1px;
+    margin-left: 64px;
+}
+
+
+.main-container{
+    margin-left: 164px;
+}
+
+.btn1{
+    border: none;
+}
+
+.btn1:hover{
+    background-color: rgb(239, 239, 100);
+    border: none;
+}
+
+
+.btn2{
+    border: none;
+}
+
+.btn2:hover{
+    background-color: rgb(239, 239, 100);
+    border: none;
+}
+
+.btn3{
+    border: none;
+}
+
+.btn3:hover{
+    background-color: rgb(239, 239, 100);
+    border: none;
+}
+
+
+.btn4{
+    border: none;
+}
+
+.btn4:hover{
+    background-color: rgb(239, 239, 100);
+    border: none;
+}
+
+.btn5{
+    border: none;
+}
+
+.btn5:hover{
+    background-color: rgb(239, 239, 100);
+    border: none;
+}
+
+.btn6{
+    border: none;
+}
+
+.btn6:hover{
+    background-color: rgb(239, 239, 100);
+    border: none;
+}
+
+
+.btn7{
+    border: none;
+}
+
+.btn7:hover{
+    background-color: rgb(239, 239, 100);
+    border: none;
+}
+
+.btn8{
+    border: none;
+}
+
+.btn8:hover{
+    background-color: rgb(239, 239, 100);
+    border: none;
+}
+/* main body ends */
+
+
+/* cards starts  */
+.ind{
+    width: 10px !important;
+    height:10px !important;
+    border-radius: 50%;
+}
+.card-img-height{
+    width: 100px;
+    height: 50px;
+}
+
+
+
+
+
+.card:hover{
+    transition: all 2s;
+transform: scale(1.2);
+
+}
+
+/* heading starts */
+
+
+.heading1{
+    margin-left: 105px;
+    text-align: justify;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+/* fromcss js starts */
+
+
+.fromcss .row{
+    width: 730px;
+    height: 300px;
+    padding-right: 77px;
+    margin-left: -150px;
+
+}
+
+.row .fromcss{
+    margin-left: 80px;
+    padding-left: 20px;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+}
+.fromcss .card-img-top {
+    width: 273px;
+    height: 180px;
+    margin-left: -13px;
+    margin-top: 1px;
+}
+    
+ .fromcss .card-para1{
+     position: relative;
+     left: 393px;
+     top: -329px;
+ }   
+
+  .autoplay{
+      height: 456px ;
+  }
