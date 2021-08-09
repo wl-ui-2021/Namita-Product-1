@@ -1,5 +1,5 @@
 // selectors 
-const restaurantList = document.querySelector('#buttn1');
+// const restaurantList = document.querySelector('#buttn1');
 
 const restaurantDataDiv = document.querySelector('#dataDiv')
 const restaurantData = [];
@@ -129,6 +129,7 @@ console.log("param" ,params)
     `
     }))
     restaurantDataDiv.appendChild(output);
+    
     }
 }
 

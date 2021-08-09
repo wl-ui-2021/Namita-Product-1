@@ -66,41 +66,9 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <title> AiRBnB</title>
     <link rel="icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRW_-RA8McHGUDnGOQAt90L6-WlMs8wRvGFQ&usqp=CAU2">
     <link rel="stylesheet" href="./airbnb.css">
-
-
-
 
 
 
@@ -112,7 +80,7 @@
         <nav class="navbar navbar-expand-lg">
 
             <div class="container-fluid">
-                <a class="navbar-brand" href="./airbnb.html">
+                <a class="navbar-brand" href="./index.html">
                     <img src="https://www.investmentclub360.com/wp-content/uploads/2019/04/1_BsKbDTA9ZUVroeJ7asId4Q.png"
                         alt="" width="200" height="100">
                 </a>
@@ -151,19 +119,47 @@
         <!-- Search starts -->
         <section>
             <div class="container search-container mt-5">
+                
                 <div class="navbar">
                     <div class="container-fluid">
                         <form class="d-flex">
                             <input class="form-control me-2" type="search" placeholder="Location" aria-label="Search"
                                 width="500px" ;>
-                            <i class="far fa-search" style="color: rgb(245, 242, 242); font-size: 25px;"></i>
+                                 <button id="buttn1" style="border-radius:7px;"> <i class="far fa-search" style="color: rgb(144, 16, 16); font-size: 25px;"></i>  </button>
+                                   
                         </form>
                     </div>
-
+                
                 </div>
-            </div>
 
-        </section>
+                <!-- <form id="search-books">
+                    <label for="search">Search:</label>
+                    <input type="text" name="search" id="search">
+                    <button name="search_btn">Search</button>
+                    <button name="reset" type="reset">Reset</button>
+                  </form>
+                  <div id="app"></div>
+            </div> -->
+
+        
+
+
+        <!-- <div class="dropdown">
+              <button onclick="myFunction()" class="dropbtn">Dropdown</button>  
+             <div id="myDropdown" class="dropdown-content">
+              <input type="text" placeholder="Search.." id="myInput" onkeyup="filterFunction()">
+              <a href="./air1.html?search=Pondicherry">Pondicherry</a>
+              <a href="./air2.html?search=Ooty">Ooty</a>
+              <a href="./air3.html?search=Manali">Manali</a>
+              <a href="./air4.html?search=Kerala">Kerala</a>
+              
+            </div>
+          </div>  -->
+
+
+
+
+
     </section>
 
     <!-- search ends -->
@@ -171,12 +167,15 @@
     <!-- main body starts -->
     <section class="explore">
         <div class="container main-container">
+            
             <h2> Explore near by</h2>
         </div>
+    
     </section>
 
     <section>
         <div class="container img-container">
+            
 
             <div class="i1 mt-5">
                 <img
@@ -248,7 +247,7 @@
         </div>
         </div> <br>
         <hr width="0px">
-
+    
         </div>
     </section>
 
@@ -257,6 +256,7 @@
     <!-- Carousel starts -->
     <section>
         <div class="container carou-container">
+            
             <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-indicators">
                     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"
@@ -303,6 +303,7 @@
                     <span class="visually-hidden">Next</span>
                 </button>
             </div>
+            
         </div>
     </section>
 
@@ -312,6 +313,7 @@
     <!-- cards starts -->
     <section>
         <div class="container card-container">
+            
             <h2>Live Anywhere</h2>
             <div class="card-deck">
                 <div class="card">
@@ -348,6 +350,7 @@
                     </div>
                 </div>
             </div>
+            
         </div>
     </section>
     <!-- cards ends -->
@@ -359,6 +362,7 @@
 
 
         <div class="container card-container">
+            
             <h2>Discover things to do</h2>
             <div class="card-deck">
                 <div class="card">
@@ -387,12 +391,14 @@
                 </div>
 
             </div>
+            
         </div>
     </section>
 
     <br>
     <br>
     <div class="container car-container">
+        
 
         <div class="center">
             <img src="https://a0.muscache.com/im/pictures/b21ec45b-8bac-4f8a-89b1-e967a69018b2.jpg?im_w=480" alt="" >
@@ -406,6 +412,7 @@
             <img src="https://a0.muscache.com/im/pictures/936968ee-f8f7-4ee4-91c6-c73c91bce5e8.jpg?im_w=480" alt=""style="height: 380px;">
             
           </div>
+        
         </div>
 
 
@@ -491,9 +498,34 @@ $(".center").slick({
 // });
     </script>
 
+    <!-- js script button -->
+
+    <script>
+        function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+
+function filterFunction() {
+  var input, filter, ul, li, a, i;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  div = document.getElementById("myDropdown");
+  a = div.getElementsByTagName("a");
+  for (i = 0; i < a.length; i++) {
+    txtValue = a[i].textContent || a[i].innerText;
+    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+      a[i].style.display = "";
+    } else {
+      a[i].style.display = "none";
+    }
+  }
+}
+    </script>
+ <!-- js script button -->
 
 
     <script src="./airbnb.js"></script>
+    <script src="./airbnb2.js"></script>
 </body>
 
 </html>
